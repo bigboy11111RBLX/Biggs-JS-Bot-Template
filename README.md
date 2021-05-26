@@ -16,3 +16,7 @@ This is an open source guide on creating a Discord.JS bot. All you have to do, i
 6. Repleace the token '-' with your token, keep the ' '
 7. Finally you are done setting up the bare bones! To start the bot, type int he terminal node .
 8. Now, you can go into the bot files and edit or add your own commands!
+
+
+# Report a bug:
+DM Bigboy_11111#0001 on Discord with your problem.
