@@ -1,0 +1,22 @@
+{
+  "name": "biggs-js-bot-template",
+  "version": "1.0.0",
+  "description": "A Discord.JS bot template.\r Creating bots made simple.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigboy11111RBLX/Biggs-JS-Bot-Template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigboy11111RBLX/Biggs-JS-Bot-Template/issues"
+  },
+  "homepage": "https://github.com/bigboy11111RBLX/Biggs-JS-Bot-Template#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
