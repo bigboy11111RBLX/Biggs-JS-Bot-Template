@@ -17,6 +17,14 @@ This is an open source guide on creating a Discord.JS bot. All you have to do, i
 7. Finally you are done setting up the bare bones! To start the bot, type int he terminal node .
 8. Now, you can go into the bot files and edit or add your own commands!
 
+## Features
+Message logging under terminal
+Terminal bot start logging
+Ping command
+Help command
+Command Handling
+Event Handling
+
 
 ### Report a bug:
 DM Bigboy_11111#0001 on Discord with your problem.
