@@ -3,3 +3,16 @@ A Discord.JS bot template.
 Creating bots made simple.
 
 This is an open source guide on creating a Discord.JS bot. All you have to do, is open the files, input the token and name, and start the bot! You can also easily add your own custom commands!
+
+### Setting up the bot.
+
+1. Download the newest release under the releases catagory.
+2. Unzip the file, and open your editor and open that file directory.
+3. VS CODE- Right click index.js and open integrated terminal.
+4. Type in terminal:
+     -npm innit
+     -npm i discord.js
+5. Now, open config.json
+6. Repleace the token '-' with your token, keep the ' '
+7. Finally you are done setting up the bare bones! To start the bot, type int he terminal node .
+8. Now, you can go into the bot files and edit or add your own commands!
