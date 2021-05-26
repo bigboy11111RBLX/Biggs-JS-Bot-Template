@@ -1,4 +1,4 @@
-# Biggs-JS-Bot-Templaye
+# Biggs-JS-Bot-Template
 A Discord.JS bot template.
 Creating bots made simple.
 
