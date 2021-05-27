@@ -2,6 +2,9 @@
 A Discord.JS bot template.
 Creating bots made simple.
 
+**Pre Release 2**
+
+
 This is an open source guide on creating a Discord.JS bot. All you have to do, is open the files, input the token and name, and start the bot! You can also easily add your own custom commands!
 
 # Setting up the bot.
