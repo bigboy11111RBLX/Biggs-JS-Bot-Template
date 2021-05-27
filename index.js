@@ -3,10 +3,12 @@ const Discord = require('discord.js'); //gets discord.js
 const MessageEmbed = require('discord.js');
 const { prefix, token } = require('./config.json'); //adds var prefix and token to the code looking via config.json
 
+//add new "const"'s above this line
+
 const client = new Discord.Client(); //creats the client
 client.commands = new Discord.Collection();
 
-
+// No need to edit below unless you know what you are doing.
 
 const commandFiles = fs.readdirSync('./commands').filter(file => file.endsWith('.js'));
 const eventFiles = fs.readdirSync('./events').filter(file => file.endsWith('.js'));
