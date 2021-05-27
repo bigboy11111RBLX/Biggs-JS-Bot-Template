@@ -6,6 +6,8 @@ This is an open source guide on creating a Discord.JS bot. All you have to do, i
 
 # Setting up the bot.
 
+*Make sure to have node.js installed!*
+
 1. Download the newest release under the releases catagory.
 2. Unzip the file, and open your editor and open that file directory.
 3. VS CODE- Right click index.js and open integrated terminal.
@@ -16,6 +18,8 @@ This is an open source guide on creating a Discord.JS bot. All you have to do, i
 6. Repleace the token '-' with your token, keep the ' '
 7. Finally you are done setting up the bare bones! To start the bot, type int he terminal node .
 8. Now, you can go into the bot files and edit or add your own commands!
+
+*To update the bot files if wanted, copy and paste code within file under the commands folder.*
 
 ## Features
 Message logging under terminal
