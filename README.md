@@ -32,10 +32,15 @@ This is an open source guide on creating a Discord.JS bot. All you have to do, i
 
 ## Features
 Message logging under terminal
+
 Terminal bot start logging
+
 Ping command
+
 Help command
+
 Command Handling
+
 Event Handling
 
 
