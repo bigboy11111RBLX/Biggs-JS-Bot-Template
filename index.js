@@ -2,11 +2,11 @@ const fs = require('fs'); //uses fs to look throught the commands folder when lo
 const Discord = require('discord.js'); //gets discord.js
 const MessageEmbed = require('discord.js');
 const { prefix, token } = require('./config.json'); //adds var prefix and token to the code looking via config.json
+const client = new Discord.Client(); // Sets Client var
+require('discord-buttons')(client); // "enables" discord buttons!
+client.commands = new Discord.Collection(); // Makes a collection
 
 //add new "const"'s above this line
-
-const client = new Discord.Client(); //creats the client
-client.commands = new Discord.Collection();
 
 // No need to edit below unless you know what you are doing.
 
