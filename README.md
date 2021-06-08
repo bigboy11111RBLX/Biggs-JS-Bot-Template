@@ -7,7 +7,6 @@ Creating bots made simple.
 
 This is an open source guide on creating a Discord.JS bot. All you have to do, is open the files, input the token and name, and start the bot! You can also easily add your own custom commands!
 
-![image](https://user-images.githubusercontent.com/79596269/121233376-9b215280-c860-11eb-9246-4226c080d500.png)
 
 
 # Setting up the bot.
@@ -48,6 +47,13 @@ Help command
 Command Handling
 
 Event Handling
+
+
+## Images
+![image](https://user-images.githubusercontent.com/79596269/121233376-9b215280-c860-11eb-9246-4226c080d500.png)
+![image](https://user-images.githubusercontent.com/79596269/121233550-bb511180-c860-11eb-8f35-20cb0ad44218.png)
+![image](https://user-images.githubusercontent.com/79596269/121233588-c4da7980-c860-11eb-8a34-2f938beffdc4.png)
+![image](https://user-images.githubusercontent.com/79596269/121233604-cad05a80-c860-11eb-8877-ae3b68a912c5.png)
 
 
 ### Report a bug:
